@@ -1,6 +1,4 @@
 Case Study of SME credit analysis of companies by providing the interpertation of providing SME loan to a company
-<img width="801" height="633" alt="image" src="https://github.com/user-attachments/assets/eaa98ad7-973e-4422-b484-a6e5218e2eac" />
-INTERPRETATION:- The above table shows that the current ratio of the company between 2020 and 2021 and 2024 and 2025 reached values of 2.56 2.9 3.14 3.0 and 2.98. The ideal current ratio is 2:1. The organization fails to sustain the required current ratio standards. The current ratio is increasing which shows that the company has a good ability to pay its short-term liabilities. 
 **Company profile:** Lumax Auto Technologies Ltd 
 Industry profile: Automotive Components Manufacturing
 CIN: L31909DL1981PLC349793
