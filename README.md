@@ -1,4 +1,6 @@
 Case Study of SME credit analysis of companies by providing the interpertation of providing SME loan to a company
+
+
 **Company profile:** Lumax Auto Technologies Ltd 
 Industry profile: Automotive Components Manufacturing
 CIN: L31909DL1981PLC349793
